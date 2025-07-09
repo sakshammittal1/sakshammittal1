@@ -95,8 +95,6 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshammittal1&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" style="width: 80%; max-width: 600px;"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshammittal1&layout=compact&theme=dracula&hide_border=false&count_private=true" alt="Top Languages" style="width: 80%; max-width: 600px;"/>
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saksammittal1&theme=dracula&hide_border=false" style="width: 80%; max-width: 600px;" />
 </p>
 
