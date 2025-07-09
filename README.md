@@ -116,7 +116,7 @@ A selection of projects demonstrating my technical capabilities.
   <p>
     <b>Tech Stack:</b> Python, asyncio, NumPy, PyYAML, aiohttp
     <br>
-    <a href="https://github.com/AayushBadola/Anomaly-Detection" target="_blank">
+    <a href="https://github.com/sakshammittal1/Librarysystem" target="_blank">
       <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github" alt="View Repo"/>
     </a>
   </p>
